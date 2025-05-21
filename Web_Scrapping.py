@@ -1,6 +1,6 @@
 '''
-Commit: Lo guarda de forma local,
-Commit and Push se sube a la nube
+Commit: Lo guarda de forma local
+Commit and Push: Se sube a la nube
 Push
 Pull
 '''
