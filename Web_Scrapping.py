@@ -6,6 +6,7 @@ Pull
 '''
 def saludos():
     print("Hola mundo")
+    print("Saludos")
 
 if __name__ == "__main__":
     saludos()
