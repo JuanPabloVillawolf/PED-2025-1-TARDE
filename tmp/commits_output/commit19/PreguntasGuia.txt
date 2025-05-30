@@ -1,0 +1,21 @@
+ 1. ¿Qué factores afectan el resultado de una pelea en UFC?
+ 2. ¿Cómo varía el rendimiento de los luchadores en función de su país o continente?
+ 3. ¿Cómo influyen los datos demográficos (edad, altura, peso) en la probabilidad de ganar o perder una pelea?
+ 4. ¿Cuáles son las tendencias de victorias/derrotas en ciertos eventos (por ejemplo, Pay-Per-View vs. eventos regulares)?
+ 5. ¿Cuál es la correlación entre la experiencia (número de peleas) y las victorias o derrotas en UFC?
+ 6. ¿Cuáles son las principales diferencias en las peleas entre luchadores de diferentes clases de peso?
+ 1. Disponibilidad de Datos en Tiempo Real
+ 2. Análisis de Tendencias y Predicciones
+ 3. Seguimiento de Evolución de Luchadores
+ 4. Análisis de Popularidad y Visibilidad de Luchadores
+ 5. Optimización de la Programación de Eventos
+ 1. ¿Cómo varía el número de victorias de los luchadores según su país?
+ 2. ¿Cuáles son las clases de peso con mayor cantidad de luchadores en la UFC?
+ 3. ¿Cuál es la relación entre la edad de un luchador y sus victorias en UFC?
+ 4. ¿Cuál es la distribución de victorias y derrotas en peleas según las clases de peso?
+ 5. ¿Cómo influye la altura y el peso de un luchador en su rendimiento (victorias y derrotas)?
+ 6. ¿Cuál es la relación entre el número de peleas de un luchador y su probabilidad de ganar?
+ 7. ¿Cuál es la frecuencia de ciertos métodos de victoria (KO, sumisión, decisión) en función de las clases de peso?
+ 8. ¿Cuáles son los países con más eventos de UFC organizados?
+ 9. ¿Cuál es la distribución de los luchadores según su fecha de nacimiento (generación o época)?
+ 10. ¿Qué correlación existe entre la precisión de los golpes y la cantidad de golpes recibidos en las peleas?
